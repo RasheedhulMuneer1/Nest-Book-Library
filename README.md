@@ -1,7 +1,7 @@
-# Nest-Book-Library
+# Book-Library
 
-**Book-Library-API : NestJS Application**  
-RESTful API built using NestJS, designed to manage a simple in-memory collection of books.
+- Book-Library-API : NestJS Application
+- RESTful API built using NestJS, designed to manage a simple in-memory collection of books.
 
 ---
 
